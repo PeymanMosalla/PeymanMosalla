@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="assets/coder.gif" width="500" alt="Coder GIF">
+</p>
+
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:20251F,50:354C3B,100:E65A36&text=PEYMAN%20MOSALLA&fontSize=42&fontColor=F3EBDD&fontAlignY=38&desc=PIXEL%20DEV%20WORLD&descAlignY=58&descSize=18&animation=fadeIn"
   width="100%"
