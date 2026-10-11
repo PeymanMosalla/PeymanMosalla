@@ -1,199 +1,234 @@
 
 <!--
-  Profile README for PeymanMosalla
-  Repository: https://github.com/PeymanMosalla
+  PIXEL DEV WORLD — PEYMAN MOSALLA
+  Profile repository: PeymanMosalla
 -->
 
 <div align="center">
 
-# PEYMAN MOSALLA
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:20251F,50:354C3B,100:E65A36&text=PEYMAN%20MOSALLA&fontSize=42&fontColor=F3EBDD&fontAlignY=38&desc=PIXEL%20DEV%20WORLD&descAlignY=58&descSize=18&animation=fadeIn"
+  width="100%"
+  alt="Pixel Dev World — Peyman Mosalla"
+/>
 
-### Frontend Developer | Web Development | Problem Solving
+<br/>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+for+the+Web;Learning+by+Building;Turning+Ideas+into+Interfaces"
+  alt="Animated developer introduction"
+/>
 
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=4ADE80&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+for+the+Web;Learning+by+Building;Turning+Ideas+into+Interfaces" alt="Animated introduction" />
-
-</div>
-
-
-Building clean, responsive, and user-friendly web experiences.
-
-<a href="https://github.com/PeymanMosalla">
-  <img src="https://img.shields.io/badge/GitHub-PeymanMosalla-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-</a>
 <a href="https://github.com/PeymanMosalla?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github" alt="Explore Projects" />
+  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-E65A36?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
+<a href="https://github.com/PeymanMosalla">
+  <img src="https://img.shields.io/badge/PLAYER-PEYMAN-354C3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E65A36?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-4169E1?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=20251F" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-20251F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
 ---
 
-## `01` — About Me
+## 🕹️ PLAYER PROFILE
 
-I'm a frontend developer interested in building practical web applications
-with a focus on usability, responsive design, and maintainable code.
+```text
+╔══════════════════════════════════════╗
+║             PLAYER: PEYMAN           ║
+╠══════════════════════════════════════╣
+║  CLASS      : Frontend Developer     ║
+║  MAIN TOOLS : HTML / CSS / JS        ║
+║  WORKFLOW   : Git / GitHub           ║
+║  CURRENT XP : Learning by building   ║
+║  NEXT LEVEL : React & modern frontend║
+╚══════════════════════════════════════╝
+```
 
-I have hands-on experience working with web technologies and contributing
-to real-world software projects. I enjoy breaking problems into smaller
-steps, learning from implementation challenges, and continuously improving
-the way I build and debug applications.
+Hey! I'm Peyman, a frontend developer building practical web experiences
+and growing through hands-on projects and real-world software work.
 
-- **Currently working with:** HTML, CSS, JavaScript, and Git.
-- **Currently learning:** React and modern frontend development practices.
-- **Interested in:** Frontend development, responsive interfaces, API integration,
-  and practical web applications.
-- **Professional goal:** Grow as a developer through real projects, collaboration,
-  and continuous improvement.
-- **Open to:** Suitable junior frontend opportunities and clearly scoped freelance projects.
+I enjoy working on user interfaces, integrating APIs, debugging issues,
+and making applications more usable and maintainable.
 
-> I value clear communication, practical solutions, and code that can be
-> understood, tested, and maintained.
-
----
-
-## `02` — Tech Stack
-
-### Core Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
-
-### Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/React-Learning-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React — learning" />
-  <img src="https://img.shields.io/badge/TypeScript-Exploring-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript — exploring" />
-</p>
+- 🧱 Building with HTML, CSS, and JavaScript.
+- 🔧 Using Git and GitHub for version control.
+- 📚 Currently learning React and exploring TypeScript.
+- 🎯 Interested in junior frontend roles and well-defined freelance projects.
+- 🌱 Focused on understanding problems, testing solutions, and improving code.
 
 ---
 
-## `03` — Featured Projects
+## 🗺️ WORLD MAP — MY PROJECTS
 
-Here are some projects that represent my learning journey and practical
-experience with web development.
+### 🌦️ LEVEL 01: Weather App
 
-### 🌦️ Weather App
+A weather application focused on retrieving and presenting weather data.
 
-**A weather application built around real-time weather data.**
+**Features explored**
+- City search and user input handling.
+- Weather data from an external API.
+- Current-location weather functionality.
+- Asynchronous JavaScript and UI interactions.
 
-- Search for weather by city.
-- Retrieve weather information using the available API.
-- Access weather information based on the user's location.
-- Practice asynchronous JavaScript, API integration, and UI state handling.
+**Tech:** HTML · CSS · JavaScript · Weather API
 
-**Tech:** JavaScript · HTML · CSS · Weather API
-
-[View Repository →](https://github.com/PeymanMosalla/Weather-app-mini-project)
+[🟢 ENTER PROJECT](https://github.com/PeymanMosalla/Weather-app-mini-project)
 
 ---
 
-### 👟 Sneaker Shop — Academic Project
+### 🛍️ LEVEL 02: Sneaker Shop
 
-**A web-based sneaker shop built as an academic project.**
+An academic web application exploring the essential features of an online shop.
 
+**Features explored**
 - Product browsing and product details.
-- Shopping cart and user authentication flows.
+- Shopping cart and authentication flows.
+- Database-backed features.
 - Administrative product management.
-- Database-backed application features.
 
 **Tech:** HTML · CSS · JavaScript · PHP · MySQL
 
-[View Repository →](https://github.com/PeymanMosalla/SneakerShopProject)
+[🟢 ENTER PROJECT](https://github.com/PeymanMosalla/SneakerShopProject)
 
 ---
 
-### 🧩 More Projects
+### 🔍 NEXT LEVEL: More Projects
 
-I'm continuing to build and improve projects that demonstrate practical
-frontend skills, problem-solving, and the ability to turn requirements
-into working interfaces.
+I'm continuing to build projects that demonstrate practical frontend skills,
+problem-solving, and the ability to turn requirements into working features.
 
-[Browse All Repositories →](https://github.com/PeymanMosalla?tab=repositories)
+[Browse all repositories →](https://github.com/PeymanMosalla?tab=repositories)
 
 ---
 
-## `04` — GitHub Analytics
+## 🧰 INVENTORY — TECH STACK
+
+| Category | Current toolkit |
+|---|---|
+| Frontend fundamentals | HTML5, CSS3, JavaScript |
+| Version control | Git, GitHub |
+| Editor | Visual Studio Code |
+| Learning | React |
+| Exploring | TypeScript and modern frontend practices |
+
+---
+
+## 📊 PLAYER STATISTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PeymanMosalla&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PeymanMosalla&show_icons=true&theme=merko&hide_border=true&rank_icon=github"
+  height="175"
+  alt="GitHub profile statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeymanMosalla&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages in public repositories" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeymanMosalla&layout=compact&theme=merko&hide_border=true"
+  height="175"
+  alt="Most used languages in public repositories"
+/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=PeymanMosalla&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=PeymanMosalla&theme=merko&hide_border=true"
+  width="90%"
+  alt="GitHub contribution streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&theme=green&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub contribution activity"
+/>
 
 </div>
 
-### Contribution Activity
+<sub>
+Stats reflect GitHub activity and public repository contents.
+Language percentages are not a measure of skill level.
+Third-party statistics may occasionally be unavailable.
+</sub>
+
+---
+
+## 🐍 CONTRIBUTION QUEST
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+![Contribution Snake](https://raw.githubusercontent.com/PeymanMosalla/PeymanMosalla/output/github-snake.svg)
 
 </div>
 
 ---
 
-## `05` — What I Bring to a Team
+## ⚙️ MY DEVELOPMENT LOOP
 
-- **Practical mindset:** I focus on solving the actual problem, not just writing code.
-- **Continuous learning:** I work to improve my understanding through implementation and debugging.
-- **Attention to usability:** I care about responsive layouts and clear user interactions.
-- **Collaboration:** I value clear requirements, feedback, and communication.
-- **Maintainability:** I aim to write code that is organized and understandable.
+```text
+  [ UNDERSTAND ]
+        |
+        v
+  [ PLAN THE FEATURE ]
+        |
+        v
+  [ BUILD & DEBUG ]
+        |
+        v
+  [ TEST THE RESULT ]
+        |
+        v
+  [ LEARN & IMPROVE ]
+        |
+        +-------> REPEAT
+```
+
+I value clear requirements, practical solutions, readable code, and honest
+communication. I want to understand not only how a feature works, but also
+how to test it and troubleshoot it when something goes wrong.
 
 ---
 
-## `06` — Freelance & Collaboration
+## 🤝 CO-OP MODE — LET'S WORK TOGETHER
 
-I'm interested in suitable projects involving:
+I'm interested in suitable opportunities involving:
 
-- Responsive landing pages and website interfaces.
-- HTML, CSS, and JavaScript frontend implementation.
-- Integrating frontend interfaces with existing APIs.
-- Improving existing layouts and fixing frontend issues.
-- Small web projects with clearly defined requirements.
+- Responsive landing pages and web interfaces.
+- Frontend implementation using HTML, CSS, and JavaScript.
+- Integrating interfaces with existing APIs.
+- Fixing frontend issues and improving existing layouts.
+- Small web projects with clear requirements and realistic timelines.
 
-For each project, I aim to clarify the scope, expected behavior, delivery
-requirements, and testing needs before committing to a timeline.
+For freelance projects, I prefer to clarify scope, expected behavior,
+testing, and handover requirements before committing to delivery.
 
-**Have a project or junior frontend opportunity in mind?**
-
-You can explore my repositories or reach out through GitHub.
+**Have a project or junior frontend opportunity?**
 
 [GitHub Profile](https://github.com/PeymanMosalla) ·
-[Repositories](https://github.com/PeymanMosalla?tab=repositories)
-
----
-
-## `07` — Beyond the Code
-
-I believe becoming a better developer is about more than learning new
-frameworks. It also means understanding problems, asking better questions,
-debugging systematically, and taking responsibility for the final result.
-
-I'm building my skills one project at a time.
+[Browse Projects](https://github.com/PeymanMosalla?tab=repositories)
 
 <div align="center">
 
-### Thanks for stopping by!
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:E65A36,50:354C3B,100:20251F&height=120&section=footer"
+  width="100%"
+  alt="Pixel-inspired footer"
+/>
 
-*Build. Learn. Improve. Repeat.*
+**GAME STATUS: STILL LEARNING. STILL BUILDING.**
 
-<img src="https://komarev.com/ghpvc/?username=PeymanMosalla&style=flat-square&color=2563EB" alt="Profile views" />
+<sub>Thanks for visiting my little corner of the web.</sub>
 
 </div>
