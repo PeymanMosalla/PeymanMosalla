@@ -10,6 +10,14 @@
 
 ### Frontend Developer | Web Development | Problem Solving
 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=4ADE80&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+for+the+Web;Learning+by+Building;Turning+Ideas+into+Interfaces" alt="Animated introduction" />
+
+</div>
+
+
 Building clean, responsive, and user-friendly web experiences.
 
 <a href="https://github.com/PeymanMosalla">
