@@ -11,7 +11,7 @@
 </p>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:20251F,50:354C3B,100:E65A36&text=PEYMAN%20MOSALLA&fontSize=42&fontColor=F3EBDD&fontAlignY=38&desc=PIXEL%20DEV%20WORLD&descAlignY=58&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050B14,50:0B1928,100:172D35&text=PEYMAN%20MOSALLA&fontSize=42&fontColor=DCE7F5&fontAlignY=38&desc=PIXEL%20DEV%20WORLD&descAlignY=58&descSize=18&animation=fadeIn"
   width="100%"
   alt="Pixel Dev World — Peyman Mosalla"
 />
@@ -226,7 +226,7 @@ testing, and handover requirements before committing to delivery.
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:E65A36,50:354C3B,100:20251F&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:172D35,50:0B1928,100:050B14"
   width="100%"
   alt="Pixel-inspired footer"
 />
