@@ -24,9 +24,7 @@
 <div align="center">
   <h3>📈 Contribution Activity</h3>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&bg_color=050B14&color=DCE7F5&line=4C9AFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&bg_color=050B14&color=DCE7F5&line=4C9AFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 <!-- Contribution Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/PeymanMosalla/PeymanMosalla/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
