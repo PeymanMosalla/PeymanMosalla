@@ -30,9 +30,9 @@
 <!-- GitHub Activity Graph -->
 <div align="center">
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&theme=github-compact&hide_border=true"
+  src="https://raw.githubusercontent.com/PeymanMosalla/PeymanMosalla/output/activity-graph.svg"
   width="100%"
-  alt="GitHub contribution activity"
+  alt="GitHub Activity Graph"
 />
 </div>
 
