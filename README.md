@@ -29,11 +29,11 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&theme=green&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PeymanMosalla&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="GitHub contribution activity"
+/>
 </div>
 
 <!-- GitHub Contribution Snake -->
