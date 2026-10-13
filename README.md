@@ -37,10 +37,20 @@
 </div>
 
 <!-- GitHub Contribution Snake -->
+
+<!-- GitHub Contribution Snake -->
 <div align="center">
-
-  ![Contribution Snake](https://raw.githubusercontent.com/PeymanMosalla/PeymanMosalla/output/github-snake.svg)
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PeymanMosalla/PeymanMosalla/output/github-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/PeymanMosalla/PeymanMosalla/output/github-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </div>
 
 <!-- Animated Footer -->
